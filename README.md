@@ -111,5 +111,4 @@ Every push to `main` triggers the GitHub Actions workflow which:
 
 **Vansh Pandey**  
 CSE-AIML Undergraduate, MAIT Delhi  
-Intern @ ARTPARK, IISc Bengaluru  
 [LinkedIn](https://linkedin.com/in/vansh-pandey-030030234) · [GitHub](https://github.com/YOUR_USERNAME)
