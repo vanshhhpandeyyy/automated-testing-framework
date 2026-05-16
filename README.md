@@ -1,8 +1,5 @@
 # Automated Testing Framework for Python Applications
 
-![CI](https://github.com/YOUR_USERNAME/automated-testing-framework/actions/workflows/ci.yml/badge.svg)
-![Python](https://img.shields.io/badge/python-3.11-blue)
-![PyTest](https://img.shields.io/badge/tested%20with-pytest-yellow)
 
 A structured automated testing framework built with **PyTest** and **Selenium**, demonstrating assertion-based testing, reusable validation pipelines, edge-case coverage, and CI/CD integration via GitHub Actions.
 
